@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gRByDtP468dryUf5Ad9R9iSGwSnW8ktDfxkgjzpfZ7wZl8HPaiebFIa9gjSBvPwJ+XrzwDmBMOMw8NkRZixZDA==",
+  "dgSpecHash": "0O6uPT/IwLnPBFHxgC8dWVZb+62ajN6DM/RQdUHP5ft97eeNBFzM2MTadHqF9oo/HTO1H2puCGzVVe3jyiWY1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\muhammed.irshad\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\muhammed.irshad\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\muhammed.irshad\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\muhammed.irshad\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.7\\npgsql.entityframeworkcore.postgresql.6.0.7.nupkg.sha512",
     "C:\\Users\\muhammed.irshad\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\muhammed.irshad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\muhammed.irshad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"

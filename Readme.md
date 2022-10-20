@@ -6,4 +6,5 @@ Migration : https://www.entityframeworktutorial.net/efcore/cli-commands-for-ef-c
 Ef core YT video: https://www.youtube.com/watch?v=PqFwtF9HE3Y&t=2250s
 
 Postgres+EF core: https://www.npgsql.org/efcore/
+    https://aspnetboilerplate.com/Pages/Documents/EF-Core-PostgreSql-Integration
 
