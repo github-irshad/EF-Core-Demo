@@ -14,7 +14,7 @@ namespace DAL
             {
                 if(!optionsBuilder.IsConfigured)
                 {
-                    optionsBuilder.UseNpgsql("Host=localhost;Database=EF;Username=postgres;Password=Admin@123");
+                    optionsBuilder.UseNpgsql("Host=localhost;Database=LearnAPSNet;Username=postgres;Password=Admin@123");
                 }
                 base.OnConfiguring(optionsBuilder);
             }
