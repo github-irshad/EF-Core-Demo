@@ -3,3 +3,6 @@ Connection String:  https://learn.microsoft.com/en-us/answers/questions/906488/r
 https://www.entityframeworktutorial.net/efcore/cli-commands-for-ef-core-migration.aspx
 
 Ef core YT video: https://www.youtube.com/watch?v=PqFwtF9HE3Y&t=2250s
+
+Postgres+EF core: https://www.npgsql.org/efcore/
+
