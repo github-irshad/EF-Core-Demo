@@ -9,15 +9,15 @@ public class User
   [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
   public int UserId { get; set; }
 
-  [Column("varchar(50)")]
+  [Column(TypeName ="varchar(50)")]
   [Required]
   public string Name { get; set; }
 
 
-  [Column("varchar(250)")]
+  [Column(TypeName ="varchar(250)")]
   public string Address { get; set; }
 
-  [Column("varchar(20)")]
+  [Column(TypeName ="varchar(20)")]
   [Required]
   public string Contact { get; set; }
 

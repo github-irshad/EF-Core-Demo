@@ -31,18 +31,15 @@ namespace DAL.Migrations
 
                     b.Property<string>("Address")
                         .IsRequired()
-                        .HasColumnType("text")
-                        .HasColumnName("varchar(250)");
+                        .HasColumnType("varchar(250)");
 
                     b.Property<string>("Contact")
                         .IsRequired()
-                        .HasColumnType("text")
-                        .HasColumnName("varchar(20)");
+                        .HasColumnType("varchar(20)");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("text")
-                        .HasColumnName("varchar(50)");
+                        .HasColumnType("varchar(50)");
 
                     b.HasKey("UserId");
 
