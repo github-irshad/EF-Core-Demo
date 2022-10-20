@@ -8,3 +8,6 @@ Ef core YT video: https://www.youtube.com/watch?v=PqFwtF9HE3Y&t=2250s
 Postgres+EF core: https://www.npgsql.org/efcore/
     https://aspnetboilerplate.com/Pages/Documents/EF-Core-PostgreSql-Integration
 
+install dotnet tool for EF(not built in dotnet Have to install explicitly): 
+  https://www.nuget.org/packages/dotnet-ef/#versions-tab
+  dotnet tool install --global dotnet-ef --version 6.0.10
