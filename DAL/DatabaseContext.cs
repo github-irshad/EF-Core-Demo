@@ -14,9 +14,18 @@ namespace DAL
             {
                 if(!optionsBuilder.IsConfigured)
                 {
-                    optionsBuilder.UseNpgsql("Host=my_host;Database=my_db;Username=my_user;Password=my_pw");
+                    optionsBuilder.UseNpgsql("Host=localhost;Database=EF;Username=postgres;Password=Admin@123");
                 }
                 base.OnConfiguring(optionsBuilder);
             }
     }
 }
+
+
+// optionsBuilder.UseSqlServer(data source=Shailendra\SqlExpress; initial
+//   catalog=LINQDemoDB;persist security info=True;user id=sa;password=dotnettricks;")
+
+
+
+
+
