@@ -8,6 +8,13 @@ namespace DAL
 {
     public class DatabaseContext:DbContext
     {
+        public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
+        {
+            
+        }
+        
+            
+        
         DbSet<User>Users{get; set;}
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -20,6 +27,7 @@ namespace DAL
             }
     }
 }
+
 
 
 // optionsBuilder.UseSqlServer(data source=Shailendra\SqlExpress; initial

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\WebUI.csproj": {}
+    "c:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
     "C:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\DAL\\DAL.csproj": {
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\WebUI.csproj": {
+    "c:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\WebUI.csproj",
+        "projectUniqueName": "c:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "C:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\WebUI.csproj",
+        "projectPath": "c:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\WebUI.csproj",
         "packagesPath": "C:\\Users\\muhammed.irshad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\obj\\",
+        "outputPath": "c:\\Users\\muhammed.irshad\\Desktop\\EF Demo\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -124,12 +124,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
